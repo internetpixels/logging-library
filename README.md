@@ -5,7 +5,7 @@ This is a open-source library. Please consider a link to this repository when yo
 
 [![License](https://camo.githubusercontent.com/cf76db379873b010c163f9cf1b5de4f5730b5a67/68747470733a2f2f6261646765732e66726170736f66742e636f6d2f6f732f6d69742f6d69742e7376673f763d313032)](https://github.com/internetpixels/session-manager)
 [![Build Status](https://travis-ci.org/internetpixels/logging-library.svg?branch=master)](https://travis-ci.org/internetpixels/logging-library)
-[![Maintainability](https://api.codeclimate.com/v1/badges/43c7b17d539b383d68a1/maintainability)](https://codeclimate.com/github/internetpixels/session-manager/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/6416d529f70682c6afd5/maintainability)](https://codeclimate.com/github/internetpixels/logging-library/maintainability)
 
 ## Installation
 Install this PHP logging library by using composer:
